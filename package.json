@@ -1,5 +1,5 @@
 {
-  "name": "nest-mysql-swagger-demo",
+  "name": "nest-mysql-typeorm-swagger-demo",
   "version": "0.0.1",
   "description": "Rest API's using NestJS,mysql and swagger",
   "author": "",
