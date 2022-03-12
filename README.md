@@ -34,6 +34,8 @@ $ npm install
 
 ## Running the app
 
+#create db 'test' in mysql
+
 ```bash
 # development
 $ npm run start
